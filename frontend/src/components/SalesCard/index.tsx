@@ -1,5 +1,6 @@
 
 import NotificationButton from '../NotificationButton'
+
 import './styles.css'
 
 function SalesCard() {
